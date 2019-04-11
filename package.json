@@ -4,7 +4,8 @@
   "description": "CI CD for serverless framework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,9 @@
     "add": "^2.0.6",
     "lodash": "^4.17.11",
     "yarn": "^1.15.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4",
+    "release-it": "^10.4.1"
   }
 }
