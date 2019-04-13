@@ -23,11 +23,7 @@
   },
   "homepage": "https://github.com/tushariscoolster/serverless-codepipeline#readme",
   "dependencies": {
-    "@aws-cdk/aws-codebuild-codepipeline": "^0.8.1",
-    "@aws-cdk/aws-codepipeline": "0.8.1",
-    "add": "^2.0.6",
-    "lodash": "^4.17.11",
-    "yarn": "^1.15.2"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "prettier": "^1.16.4",
