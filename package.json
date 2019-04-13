@@ -1,6 +1,6 @@
 {
   "name": "serverless-codepipeline",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CI CD for serverless framework",
   "main": "index.js",
   "scripts": {
